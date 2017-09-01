@@ -27,6 +27,16 @@
                     "followers": []
                 }
             ]
+        },
+        "poc-seed": {
+            "features": [
+                {
+                    "name": "SpringBoot.Structure",
+                    "followers": [
+                        "poc-microservice-a"
+                    ]
+                }
+            ]
         }
     }
 }
