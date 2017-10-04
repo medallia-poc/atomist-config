@@ -16,3 +16,21 @@ editor:
     - "follower": "poc-microservice-a"
     - "featureName": "SpringBoot.Structure"
 
+---
+kind: "operation"
+client: "com.atomist:rug"
+version: "1.0.0-20170816122823"
+editor:
+  name: "AddFeatureFollowerEditor"
+  group: "atomist"
+  artifact: "spring-team-handlers"
+  version: "0.14.0"
+  origin:
+    repo: "git@github.com:atomisthq/spring-team-handlers.git"
+    branch: "167de20640ee637b40ea7becd92851f831c9ea85"
+    sha: "167de20"
+  parameters:
+    - "broadcaster": "poc-seed"
+    - "follower": "poc-microservice-b"
+    - "featureName": "SpringBoot.Structure"
+
