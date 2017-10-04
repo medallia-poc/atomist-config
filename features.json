@@ -34,7 +34,8 @@
                     "name": "SpringBoot.Structure",
                     "followers": [
                         "poc-microservice-a",
-                        "poc-microservice-b"
+                        "poc-microservice-b",
+                        "microservice-c"
                     ]
                 }
             ]
